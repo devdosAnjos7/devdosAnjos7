@@ -17,6 +17,7 @@ Me chamo Calebe dos Anjos Locatelli, tenho 19 anos sou de São José do Rio Pret
             src="https://custom-icon-badges.demolab.com/github/followers/devdosAnjos7?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+ 
 </p>
 ---
 
@@ -65,14 +66,16 @@ Me chamo Calebe dos Anjos Locatelli, tenho 19 anos sou de São José do Rio Pret
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
 <img 
-    align="left" 
-    alt="Python" 
+     align="left" 
+    alt="Java" 
     title="Java"
     width="40px" 
-    style="padding-right: 10px;
-    src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1/" 
-/>
+    style="padding-right: 10px;"      
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
+          
+   
 <br/>
 <br/>
 
