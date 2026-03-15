@@ -74,6 +74,7 @@ Me chamo Calebe dos Anjos Locatelli, tenho 19 anos sou de São José do Rio Pret
     width="40px" 
     style="padding-right: 10px;"      
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
+          />
           
    
 <br/>
