@@ -22,6 +22,7 @@ Atualmente, curso Análise e Desenvolvimento de Sistemas na UNIP e estou em cons
  
 
 </p>
+
 ---
 
 ### 🖥️ No Momento Estou:
@@ -33,7 +34,7 @@ Atualmente, curso Análise e Desenvolvimento de Sistemas na UNIP e estou em cons
 ### 📫 Contato:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/calebelocatelli/ )
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:calebeocatelli13@gmail.com)
-
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5517991149736)
 ---
 
 ### 🤖 Linguagens e Tecnologias
