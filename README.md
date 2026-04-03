@@ -22,6 +22,14 @@ Atualmente, curso Análise e Desenvolvimento de Sistemas na UNIP e estou em cons
 
 </p>
 ---
+### 🌱 No momento estou:
+- Aprimorando meus conhecimentos em **Lógica de Programação** e **Java**.
+- Estudando estruturas de dados e bancos de dados relacionais.
+- Explorando ferramentas de automação e integração.
+
+### 📫 Contato:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/calebelocatelli/ )
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:calebeocatelli13@gmail.com)
 
 ### 🤖 Linguagens e Tecnologias
 
