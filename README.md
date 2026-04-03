@@ -2,6 +2,7 @@
 
 **`Desenvolvedor Back-End`**
 
+
 Olá! Eu sou o Calebe dos Anjos Locatelli, um entusiasta de tecnologia focado em Desenvolvimento Back-End.
 Atualmente, curso Análise e Desenvolvimento de Sistemas na UNIP e estou em constante aprendizado para construir soluções eficientes e escaláveis. Adoro resolver problemas lógicos e explorar novas ferramentas que otimizem o fluxo de trabalho.
 <p>
@@ -22,9 +23,9 @@ Atualmente, curso Análise e Desenvolvimento de Sistemas na UNIP e estou em cons
 
 </p>
 ---
-### 🌱 No momento estou:
-- Aprimorando meus conhecimentos em ´´´Lógica de Programação´´´
-- Estudando ´´´Desenvolvimento Back-End com Java´´´.
+###🌱 No momento estou:
+- Aprimorando meus conhecimentos em **`Lógica de Programação´**
+- Estudando **` Desenvolvimento BackEnd com Java ´**.
 - Estudando estruturas de dados e bancos de dados relacionais.
 - Explorando ferramentas de automação e integração.
 
