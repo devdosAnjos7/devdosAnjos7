@@ -2,7 +2,8 @@
 
 **`Desenvolvedor Back-End`**
 
-Me chamo Calebe dos Anjos Locatelli, tenho 19 anos sou de São José do Rio Preto, atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unip, gosto de aprender sobre tecnologia, aprimorar sempre meu conhecimento.
+Olá! Eu sou o Calebe dos Anjos Locatelli, um entusiasta de tecnologia focado em Desenvolvimento Back-End.
+Atualmente, curso Análise e Desenvolvimento de Sistemas na UNIP e estou em constante aprendizado para construir soluções eficientes e escaláveis. Adoro resolver problemas lógicos e explorar novas ferramentas que otimizem o fluxo de trabalho.
 <p>
   <img 
             alt="Total de estrelas" 
