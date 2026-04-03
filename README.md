@@ -23,15 +23,18 @@ Atualmente, curso Análise e Desenvolvimento de Sistemas na UNIP e estou em cons
 
 </p>
 ---
+
 ### 🖥️ No Momento Estou:
 - Aprimorando meus conhecimentos em **Logica de Programação e POO**.
 - Estudando ** Desenvolvimento BackEnd com Java** na Alura.
 
-
+---
 
 ### 📫 Contato:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/calebelocatelli/ )
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:calebeocatelli13@gmail.com)
+
+---
 
 ### 🤖 Linguagens e Tecnologias
 
