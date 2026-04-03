@@ -1,4 +1,4 @@
-# Calebe
+# Calebe Locatelli
 
 **`Desenvolvedor Back-End`**
 
@@ -23,7 +23,8 @@ Atualmente, curso Análise e Desenvolvimento de Sistemas na UNIP e estou em cons
 </p>
 ---
 ### 🌱 No momento estou:
-- Aprimorando meus conhecimentos em **Lógica de Programação** e **Java**.
+- Aprimorando meus conhecimentos em ´´´Lógica de Programação´´´
+- Estudando ´´´Desenvolvimento Back-End com Java´´´.
 - Estudando estruturas de dados e bancos de dados relacionais.
 - Explorando ferramentas de automação e integração.
 
